@@ -1,0 +1,686 @@
+[
+  {
+    "category": "APPS",
+    "name": "Buffalo Dip",
+    "price": "$14.00",
+    "description": "No description needed! Served with tortilla chips and celery and carrot sticks."
+  },
+  {
+    "category": "APPS",
+    "name": "Burrata",
+    "price": "$15.00",
+    "description": "Fresh Diced Tomatoes tossed with Basil, Garlic and Oil topped with Burrata Cheese drizzled with Balsamic glaze served with garlic bread."
+  },
+  {
+    "category": "APPS",
+    "name": "Chicken Fingers",
+    "price": "$14.00",
+    "description": "Boneless hand breaded chicken Tenders tossed in your choice of Asian Chili, Carolina Gold, Koji, BBQ, Homemade Local Hot, Mango Habanero, or Garlic Parm Extra Bleu Cheese +$2"
+  },
+  {
+    "category": "APPS",
+    "name": "Chicken Wings",
+    "price": "$15.00",
+    "description": "Bone in chicken Wings. tossed in your choice of Asian Chili, Carolina Gold, Koji, BBQ, Homemade Local Hot, Mango Habanero, or Garlic Parm Extra Bleu Cheese +$2"
+  },
+  {
+    "category": "APPS",
+    "name": "Chips & Salsa",
+    "price": "$7.00",
+    "description": "Basket of tortilla chips served with our house made salsa"
+  },
+  {
+    "category": "APPS",
+    "name": "Crab Cakes",
+    "price": "$18.00",
+    "description": "our house-made crab cakes with old bay dipping sauce"
+  },
+  {
+    "category": "APPS",
+    "name": "Crispy Fried Calamari",
+    "price": "$16.00",
+    "description": "Hand cut calamari fried with banana peppers drizzled with your choice of Asian Thai chili sauce or the Local\u2019s hot sauce."
+  },
+  {
+    "category": "APPS",
+    "name": "Dinner Roll",
+    "price": "$0.00",
+    "description": ""
+  },
+  {
+    "category": "APPS",
+    "name": "Fried Brussel Sprouts",
+    "price": "$14.00",
+    "description": "Tender Brussel sprouts deep fried tossed in a sea salted honey truffle oil."
+  },
+  {
+    "category": "APPS",
+    "name": "Giant Pretzel",
+    "price": "$14.00",
+    "description": "Soft baked pretzel topped with sea salt, served with a smoked fondue and brewpub mustard."
+  },
+  {
+    "category": "APPS",
+    "name": "Hummus Plate",
+    "price": "$14.00",
+    "description": "Roasted Garlic Hummus served with baby carrots, celery, cucumber, tomatoes and pita chips"
+  },
+  {
+    "category": "APPS",
+    "name": "Mexican Street Corn Dip",
+    "price": "$13.00",
+    "description": "Deconstructed Mexican Street Corn made with roasted corn, jalapenos, cream cheese and spices topped with shredded cheddar cheese. Served with tortilla chips"
+  },
+  {
+    "category": "APPS",
+    "name": "Mozz Sticks",
+    "price": "$12.00",
+    "description": "Served with marinara sauce"
+  },
+  {
+    "category": "APPS",
+    "name": "Nachos",
+    "price": "$16.00",
+    "description": "Tortilla chips topped with cheddar cheese, tomatoes, fresh jalapenos, red onion ,corn, black beans and sliced olives then drizzled with a Monterey Jack cheese sauce. Served with Salsa & Sour Cream. Add house made guacamole for $2 Add grilled or fried chicken, pulled pork, Mexican Street Corn Dip + $4 Sub Vegan cheese additional $3"
+  },
+  {
+    "category": "APPS",
+    "name": "Pickie Baskets",
+    "price": "$9.00",
+    "description": "Heaping basket of French Fries, Tater Tots, Sweet Potato Fries or Onion Rings"
+  },
+  {
+    "category": "APPS",
+    "name": "Pork Dumplings",
+    "price": "$12.00",
+    "description": "Steamed pork filled dumplings drizzled with a koji teriyaki garlic sauce."
+  },
+  {
+    "category": "APPS",
+    "name": "Quahog",
+    "price": "$10.00",
+    "description": "A mix of ritz cracker, bread, peppers, onions, chorizo and chopped quahog deep. fried and served with The Local's House hot Sauce, lemon and butter"
+  },
+  {
+    "category": "APPS",
+    "name": "Steak & Cheese Eggrolls",
+    "price": "$15.00",
+    "description": "Egg rolls stuffed with shaved steak, American Cheese, Monterey Jack Cheese, Cheddar cheese onions and peppers served with spicy mayo"
+  },
+  {
+    "category": "APPS",
+    "name": "Wonton",
+    "price": "$18.00",
+    "description": "Fried Wonton shells topped with Seaweed Salad, Ahi Tuna Poke, Pickled Ginger, Scallions served with soy sauce"
+  },
+  {
+    "category": "SOUPS/SALADS",
+    "name": "Short Rib Onion Soup",
+    "price": "$14.00",
+    "description": "House made onion soup with tender pieces of short rib topped with swiss cheese and crouton"
+  },
+  {
+    "category": "SOUPS/SALADS",
+    "name": "Blueberry Mango Salad",
+    "price": "$15.00",
+    "description": "blueberry, mango, red onion, candied walnuts, jalapenos, goat cheese and spinach with cilantro lime vinaigrette"
+  },
+  {
+    "category": "SOUPS/SALADS",
+    "name": "Caesar Salad",
+    "price": "$10.00",
+    "description": "Crisp romaine lettuce, shaved Parmesan, crunchy garlic croutons and creamy Caesar dressing"
+  },
+  {
+    "category": "SOUPS/SALADS",
+    "name": "Chopped Cobb Salad",
+    "price": "$22.00",
+    "description": "Grilled chicken or fried Chicken romaine lettuce, avocado, tomatoes, corn, cucumbers, red onion, hard boiled egg, applewood smoked bacon and blue cheese served with homemade blue cheese dressing."
+  },
+  {
+    "category": "SOUPS/SALADS",
+    "name": "Greek Salad",
+    "price": "$15.00",
+    "description": "Romaine lettuce topped with Banana Peppers, Roasted red peppers, Mixed olives, Tomatoes, cucumbers, Red onion, feta and greek dressing."
+  },
+  {
+    "category": "SOUPS/SALADS",
+    "name": "Mixed Green Salad",
+    "price": "$10.00",
+    "description": "Fresh mixed greens topped with carrots, tomatoes, cucumbers, red onions and crunchy garlic croutons"
+  },
+  {
+    "category": "SOUPS/SALADS",
+    "name": "Taco Salad",
+    "price": "$18.00",
+    "description": "taco seasoned meat, shredded lettuce, red onion, corn, black beans, spanish rice, cheddar cheese, tomatoes, tri-colored tortilla strips served with salsa & sour cream"
+  },
+  {
+    "category": "SOUPS/SALADS",
+    "name": "Thai Peanut Salad",
+    "price": "$22.00",
+    "description": "A kale power blend topped with Mandarin oranges, Grape tomatoes, Sunflower seed, Edamame, Chow mein noodles, Goat cheese and served with grilled chicken and Thai peanut dressing"
+  },
+  {
+    "category": "SANDWICHES",
+    "name": "Black Bean Burger",
+    "price": "$17.00",
+    "description": "black bean burger, arugula, tomato, red onion, avocado, ciabatta roll"
+  },
+  {
+    "category": "SANDWICHES",
+    "name": "BLT",
+    "price": "$13.00",
+    "description": "Toasted white bread with lettuce, tomato and bacon served with your choice of side."
+  },
+  {
+    "category": "SANDWICHES",
+    "name": "Boston Style Brisket Hot Pastrami",
+    "price": "$16.00",
+    "description": "Hand cut pastrami brisket grilled with caramelized onions and swiss cheese, served on a grilled brioche with yellow mustard."
+  },
+  {
+    "category": "SANDWICHES",
+    "name": "Build Your Own Burger",
+    "price": "$15.00",
+    "description": "Traditional burger grilled to your liking served with lettuce, tomato and onion on a grilled brioche bun."
+  },
+  {
+    "category": "SANDWICHES",
+    "name": "Build Your Own Chicken Sandwich",
+    "price": "$15.00",
+    "description": "Your choice of grilled or fried chicken with lettuce and tomato on a toasted brioche bun."
+  },
+  {
+    "category": "SANDWICHES",
+    "name": "Buttermilk Fried Chicken Sandwich",
+    "price": "$16.00",
+    "description": "Buttermilk marinated chicken breast, dipped in a seasoned flour, deep fried, served on a grilled brioche with lettuce, pickle and our house sauce."
+  },
+  {
+    "category": "SANDWICHES",
+    "name": "Cape Reuben",
+    "price": "$16.00",
+    "description": "Beer Battered fish on brioche, with cole slaw, russian dressing and swiss cheese"
+  },
+  {
+    "category": "SANDWICHES",
+    "name": "Chicken & Waffles",
+    "price": "$17.00",
+    "description": "Buttermilk fried chicken thigh drizzled with mikes hot honey served on two sugar pearl waffles and bacon."
+  },
+  {
+    "category": "SANDWICHES",
+    "name": "Chicken Pesto Sandwich",
+    "price": "$17.00",
+    "description": "Grilled Chicken, Fresh Mozzarella, arugula, sun dried tomato pesto, and balsamic glaze on a ciabatta roll"
+  },
+  {
+    "category": "SANDWICHES",
+    "name": "LT&G Burger",
+    "price": "$16.00",
+    "description": "Traditional burger with lettuce, tomato, red onion, house sauce and your choice of cheese."
+  },
+  {
+    "category": "SANDWICHES",
+    "name": "Ribeye Sandwich",
+    "price": "$17.00",
+    "description": "Shaved prime rib, caramelized onions, swiss cheese on a toasted baguette, with arugula and a horseradish cream sauce. Served with a side of au jus."
+  },
+  {
+    "category": "SANDWICHES",
+    "name": "Steakhouse Burger",
+    "price": "$17.00",
+    "description": "Angus beef patty grilled and topped with bacon jam , Cheddar cheese, caramelized onions, A1 Sauce, lettuce and tomato served on a brioche roll"
+  },
+  {
+    "category": "SANDWICHES",
+    "name": "Tacos",
+    "price": "$16.00",
+    "description": "choice of fried haddock, fried chicken, pulled pork, taco seasoned ground beef, lettuce, tomato, pickled red onion, spicy mayo and shredded cheddar cheese"
+  },
+  {
+    "category": "SANDWICHES",
+    "name": "The Local Kickin' Chicken",
+    "price": "$16.00",
+    "description": "Breaded and fried buttermilk chicken thigh tossed in The Locals Hot Sauce, with fried banana peppers, lettuce, tomatoes and bleu cheese dressing."
+  },
+  {
+    "category": "ENTREES",
+    "name": "Ahi Tuna Poke",
+    "price": "$21.00",
+    "description": "raw ahi tuna tossed in miso mustard over forbidden black rice with pickled ginger, cucumber, avocado and watermelon radish, drizzled with chili crisp"
+  },
+  {
+    "category": "ENTREES",
+    "name": "Baby Back Ribs",
+    "price": "$24.00",
+    "description": "Slow cooked half rack of ribs, smothered in BBQ Sauce. Served with side of cole sale and french fries."
+  },
+  {
+    "category": "ENTREES",
+    "name": "Baked Haddock",
+    "price": "$25.00",
+    "description": "Haddock baked in a butter and white wine sauce topped with ritz crackers and our Seafood bisque served with Mashed potatoes and Vegetable"
+  },
+  {
+    "category": "ENTREES",
+    "name": "Chicken Marsala",
+    "price": "$25.00",
+    "description": "Seared chicken breast, mushrooms, spinach, shallots, garlic, marsala sauce served over angel hair, garlic bread"
+  },
+  {
+    "category": "ENTREES",
+    "name": "Picatta",
+    "price": "$24.00",
+    "description": "chicken or shrimp with capers, garlic butter, white wine, shallots and lemon served over angel hair with a side of garlic bread"
+  },
+  {
+    "category": "ENTREES",
+    "name": "Fajita",
+    "price": "$20.00",
+    "description": "fajita marinated steak, chicken, tofu or shrimp topped with peppers and onions served on a hot skillet with spanish rice, salsa, sour cream, lettuce, tomatoes, cheddar cheese and tortillas"
+  },
+  {
+    "category": "ENTREES",
+    "name": "Fish & Chips",
+    "price": "$22.00",
+    "description": "Fresh beer battered haddock served with french fries, cole slaw, tartar, lemon and garnished with hand battered onion rings."
+  },
+  {
+    "category": "ENTREES",
+    "name": "Mac & Cheese",
+    "price": "$15.00",
+    "description": "Pasta shells tossed in a Monterey jack cheese sauce topped with buttered ritz cracker crumbs. Add Lobster + MKT $"
+  },
+  {
+    "category": "ENTREES",
+    "name": "Pan Seared Salmon",
+    "price": "$24.00",
+    "description": "north atlantic salmon, pan seared, lemon caper sauce, black rice and seasonal vegetables"
+  },
+  {
+    "category": "ENTREES",
+    "name": "Ribeye Entree",
+    "price": "$36.00",
+    "description": "hand cut 16oz ribeye grilled to your liking, served with mashed potatoes and vegetables add saut\u00e9ed mushrooms, onions + peppers +3"
+  },
+  {
+    "category": "ENTREES",
+    "name": "Steak Tips",
+    "price": "$28.00",
+    "description": "hand-cut tender marinated beef tips grilled to your liking served with mashed potato and seasonal vegetables, saut\u00e9ed mushrooms, onions & peppers +3"
+  },
+  {
+    "category": "KIDS",
+    "name": "Kids Burger",
+    "price": "$12.00",
+    "description": "5oz beef patty grilled topped with American cheese, served on a brioche bun with french fries."
+  },
+  {
+    "category": "KIDS",
+    "name": "Kids Chicken Fingers",
+    "price": "$12.00",
+    "description": "Three chicken fingers hand breaded and fried served with french fries and a side of honey mustard dressing for dipping!"
+  },
+  {
+    "category": "KIDS",
+    "name": "Kids Fish & Chips",
+    "price": "$12.00",
+    "description": "Hand battered haddock fried served with french fries and tartar sauce!"
+  },
+  {
+    "category": "KIDS",
+    "name": "Kids Grilled Cheese",
+    "price": "$12.00",
+    "description": "Grilled cheese on sourdough bread served with french fries"
+  },
+  {
+    "category": "KIDS",
+    "name": "Kids Hot Dog",
+    "price": "$12.00",
+    "description": "Nathan's Hot dog grilled in a toasted brioche hot dog roll served with a side of french fries."
+  },
+  {
+    "category": "KIDS",
+    "name": "Kids Mac & Cheese",
+    "price": "$12.00",
+    "description": "Pasta shells tossed in a Monterey jack cheese sauce. Add toppings for an additional charge"
+  },
+  {
+    "category": "KIDS",
+    "name": "Kids Pasta",
+    "price": "$12.00",
+    "description": "Pasta served with marinara or butter"
+  },
+  {
+    "category": "KIDS",
+    "name": "Kids Mozz Stick",
+    "price": "$12.00",
+    "description": "3 mozzarella sticks served with french fries and a side of marinara sauce"
+  },
+  {
+    "category": "KIDS",
+    "name": "Small Cheese Pizza (Kids)",
+    "price": "$12.00",
+    "description": "Small cheese pizza, add toppings for an additional price"
+  },
+  {
+    "category": "PIZZA",
+    "name": "Bacon & Brussel Sprout Pizza",
+    "price": "$16.00",
+    "description": "Oil and garlic, blended mozzarella, bacon, brussel sprouts & a truffle honey drizzle."
+  },
+  {
+    "category": "PIZZA",
+    "name": "BBQ Pizza",
+    "price": "$13.00",
+    "description": "BBQ sauce with blended mozzarella, fried chicken & caramelized onions"
+  },
+  {
+    "category": "PIZZA",
+    "name": "Buffalo Pizza",
+    "price": "$13.00",
+    "description": "Local Hot sauce with blended mozzarella, fried chicken & caramelized onions"
+  },
+  {
+    "category": "PIZZA",
+    "name": "Cheese Pizza",
+    "price": "$11.00",
+    "description": "Tomato sauce & blended mozzarella cheese"
+  },
+  {
+    "category": "PIZZA",
+    "name": "Cheeseburger Pizza",
+    "price": "$15.00",
+    "description": "Ground beef, bacon, onion, tomato, blended mozzarella, topped with shredded lettuce & house sauce. (try it with taco seasoned meat!)"
+  },
+  {
+    "category": "PIZZA",
+    "name": "Chicken Bacon Ranch Pizza",
+    "price": "$15.00",
+    "description": "blended mozzarella cheese, fried chicken, bacon, drizzled ranch dressing"
+  },
+  {
+    "category": "PIZZA",
+    "name": "Fenway Pizza",
+    "price": "$14.00",
+    "description": "Tomato sauce, blended mozzarella, Italian sausage, onion & green pepper."
+  },
+  {
+    "category": "PIZZA",
+    "name": "Fig & Proscuitto Pizza",
+    "price": "$16.00",
+    "description": "Oil, blended mozzarella, prosciutto, goat cheese, arugula & drizzled with a fig balsamic glaze."
+  },
+  {
+    "category": "PIZZA",
+    "name": "Margherita Pizza",
+    "price": "$14.00",
+    "description": "Basil pesto, blended mozzarella, fresh mozzarella, fresh basil & vine ripe tomatoes."
+  },
+  {
+    "category": "PIZZA",
+    "name": "Meatlover's Pizza",
+    "price": "$16.00",
+    "description": "blended cheese, pepperoni, hamburger, bacon, and sausage drizzled with hot sauce"
+  },
+  {
+    "category": "PIZZA",
+    "name": "Pepperoni Pizza",
+    "price": "$13.00",
+    "description": "Tomato Sauce, blended mozzarella & pepperoni add hot honey +1.50"
+  },
+  {
+    "category": "PIZZA",
+    "name": "Scallop & Bacon Pizza",
+    "price": "$18.00",
+    "description": "Our traditional crust with red sauce, blended mozzarella, bay scallops, bacon and scallions"
+  },
+  {
+    "category": "PIZZA",
+    "name": "Veggie Pizza",
+    "price": "$14.00",
+    "description": "Tomato sauce, blended mozzarella, spinach, roasted red peppers, sliced mushrooms, white onion, black olives and banana peppers."
+  },
+  {
+    "category": "SIDES",
+    "name": "Side Broccoli",
+    "price": "$3.00",
+    "description": ""
+  },
+  {
+    "category": "SIDES",
+    "name": "Side Caesar",
+    "price": "$4.00",
+    "description": ""
+  },
+  {
+    "category": "SIDES",
+    "name": "Side Cole Slaw",
+    "price": "$3.00",
+    "description": ""
+  },
+  {
+    "category": "SIDES",
+    "name": "Side Extra Blue Cheese Dressing",
+    "price": "$2.00",
+    "description": ""
+  },
+  {
+    "category": "SIDES",
+    "name": "Side French Fries",
+    "price": "$3.00",
+    "description": ""
+  },
+  {
+    "category": "SIDES",
+    "name": "Side Garlic Bread",
+    "price": "$1.50",
+    "description": ""
+  },
+  {
+    "category": "SIDES",
+    "name": "Side Honey Truffle Brussel Sprouts",
+    "price": "$4.00",
+    "description": ""
+  },
+  {
+    "category": "SIDES",
+    "name": "Side Mashed Potato",
+    "price": "$3.00",
+    "description": ""
+  },
+  {
+    "category": "SIDES",
+    "name": "Side Onion Rings",
+    "price": "$3.00",
+    "description": ""
+  },
+  {
+    "category": "SIDES",
+    "name": "Side Rice, Black",
+    "price": "$3.00",
+    "description": ""
+  },
+  {
+    "category": "SIDES",
+    "name": "Side Rice, Spanish",
+    "price": "$4.00",
+    "description": ""
+  },
+  {
+    "category": "SIDES",
+    "name": "Side Seasonal Veg",
+    "price": "$3.00",
+    "description": ""
+  },
+  {
+    "category": "SIDES",
+    "name": "Side Simple Salad",
+    "price": "$4.00",
+    "description": ""
+  },
+  {
+    "category": "SIDES",
+    "name": "Side Sweet Potato Fries",
+    "price": "$3.00",
+    "description": ""
+  },
+  {
+    "category": "SIDES",
+    "name": "Side Tater Tots",
+    "price": "$3.00",
+    "description": ""
+  },
+  {
+    "category": "SIDES",
+    "name": "Side Truffle Fries",
+    "price": "$4.00",
+    "description": ""
+  },
+  {
+    "category": "SIDES",
+    "name": "Side Truffle Tots",
+    "price": "$4.00",
+    "description": ""
+  },
+  {
+    "category": "DESSERTS",
+    "name": "Hot Fudge Sundae",
+    "price": "$10.00",
+    "description": ""
+  },
+  {
+    "category": "DESSERTS",
+    "name": "Scoop Ice Cream",
+    "price": "$4.00",
+    "description": ""
+  },
+  {
+    "category": "DESSERTS",
+    "name": "Tiramisu",
+    "price": "$10.00",
+    "description": ""
+  },
+  {
+    "category": "DESSERTS",
+    "name": "Pistachio Cake",
+    "price": "$10.00",
+    "description": "\\*\\*\\*TAKE OUT SOUPS & SAUCES\\*\\*\\*"
+  },
+  {
+    "category": "DESSERTS",
+    "name": "1/2 Pint Clam Chowder (Togo)",
+    "price": "$10.00",
+    "description": ""
+  },
+  {
+    "category": "DESSERTS",
+    "name": "Pint Clam Chowder (Togo)",
+    "price": "$18.00",
+    "description": ""
+  },
+  {
+    "category": "DESSERTS",
+    "name": "Quart Clam Chowder (Togo)",
+    "price": "$34.00",
+    "description": ""
+  },
+  {
+    "category": "DESSERTS",
+    "name": "1/2 Pint Seafood Bisque (Togo)",
+    "price": "$14.00",
+    "description": ""
+  },
+  {
+    "category": "DESSERTS",
+    "name": "Pint Seafood Bisque (Togo)",
+    "price": "$28.00",
+    "description": ""
+  },
+  {
+    "category": "DESSERTS",
+    "name": "Quart Seafood Bisque (Togo)",
+    "price": "$58.00",
+    "description": ""
+  },
+  {
+    "category": "DESSERTS",
+    "name": "Pint Short Rib Onion Soup",
+    "price": "$14.00",
+    "description": ""
+  },
+  {
+    "category": "DESSERTS",
+    "name": "1/2 Pint House Blue Cheese",
+    "price": "$6.00",
+    "description": ""
+  },
+  {
+    "category": "DESSERTS",
+    "name": "Pint House Blue Cheese",
+    "price": "$12.00",
+    "description": ""
+  },
+  {
+    "category": "DESSERTS",
+    "name": "1/2 Pint House Hot Sauce",
+    "price": "$6.00",
+    "description": ""
+  },
+  {
+    "category": "DESSERTS",
+    "name": "Pint House Hot Sauce",
+    "price": "$12.00",
+    "description": ""
+  },
+  {
+    "category": "DESSERTS",
+    "name": "1/2 Pint Corn Chowder",
+    "price": "$9.00",
+    "description": ""
+  },
+  {
+    "category": "DESSERTS",
+    "name": "Pint Corn Chowder",
+    "price": "$17.00",
+    "description": ""
+  },
+  {
+    "category": "DESSERTS",
+    "name": "Quart Corn Chowder",
+    "price": "$33.00",
+    "description": ""
+  },
+  {
+    "category": "SPECIALS",
+    "name": "Chicken Salad Sandwich",
+    "price": "$15.00",
+    "description": ""
+  },
+  {
+    "category": "SPECIALS",
+    "name": "Grilled Swordfish",
+    "price": "$25.00",
+    "description": ""
+  },
+  {
+    "category": "SPECIALS",
+    "name": "Jalapeno Poppers",
+    "price": "$13.00",
+    "description": ""
+  },
+  {
+    "category": "SPECIALS",
+    "name": "SM Chefs Pizza",
+    "price": "$14.00",
+    "description": ""
+  },
+  {
+    "category": "SPECIALS",
+    "name": "LG Chefs Pizza",
+    "price": "$18.00",
+    "description": "Lamb Burger"
+  }
+]
